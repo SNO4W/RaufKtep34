@@ -20,7 +20,7 @@ let blackLst = ["fygu1241512@mail.ru", "qiuwhfiqogh@mail.ru"];
 let mailArr = filter(email, blackLst);
 console.log(mailArr, '\n');
 
-
+w
 /* 2  */
 function calculate(total, quantity, promocode = null) {
     if (promocode === 'ДАРИМ300') {
